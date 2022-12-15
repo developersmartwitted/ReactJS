@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  height: 100%;
+  font-family: "Nunito", sans-serif;
+  @apply text-gray-600;
+}
+#root {
+  height: 100%;
+}
+html {
+  background-color: #ffffff;
+  /* background-image: url("/pattern.svg"); */
+  @apply from-[#6149cd] to-[#6149cd];
+}

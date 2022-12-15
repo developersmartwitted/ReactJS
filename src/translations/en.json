@@ -1,0 +1,23 @@
+{
+  "teamMembers": "Team members",
+  "showPassword": "Show password",
+  "hidePassword": "Hide password",
+  "login": "Login",
+  "register": "Register",
+  "iDontHaveAnAccount": "I don't have an account",
+  "iAlreadyHaveAnAccount": "I already have an account",
+  "passwordInvalid": "Password invalid",
+  "userNotFound": "User not found",
+  "userExists": "User already exists",
+  "userNotCreated": "Couldn't create a new user",
+  "incorrectEmail": "Incorrect email address",
+  "error": "Error",
+  "compact": "Compact mode",
+  "wide": "Wide mode",
+  "settings": "Settings",
+  "editor": "Editor",
+  "dashboard": "Dashboard",
+  "team": "Team",
+  "subscription": "Subscription",
+  "logout": "Logout"
+}

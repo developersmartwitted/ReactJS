@@ -1,0 +1,8 @@
+.tic-tac-toe {
+  background-color: #ffffff;
+  background-image: url("/pattern.svg");
+}
+.tic-tac-toe-gradient {
+  background-image: url("/pattern.svg"),
+    linear-gradient(to top right, var(--tw-gradient-stops));
+}
